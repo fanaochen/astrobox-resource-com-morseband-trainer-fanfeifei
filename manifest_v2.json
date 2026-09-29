@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "com.morseband.trainer",
+    "restype": "quick_app",
+    "name": "摩斯电码",
+    "description": "腕上摩尔斯电码收发训练器。手环没有扬声器，所以\"听报\"完全靠线性马达的震动节奏——点、划、间隔都按国际标准产生，速度 8–28 字/分可调。\n收报练习：随机出题，震动播报后揭晓对照点划图形，可选字母、数字或业余无线电常用短语（SOS、CQ、QTH、73…）。\n发报练习：大电键拍击，实时把按压时长判成点或划，带\"成字/断词\"间隔进度条，边拍边译码。\n另有逐字符浏览的字符表（可连播）与完整设置。",
+    "preview": [
+      "media/f837cd4e2b99f152c96061d11fe901a8.png",
+      "media/cfc64f48d667a09d4a95dd6eee60dc05.png",
+      "media/e949a5125db6c7a16c5d1cf25e976839.png",
+      "media/09b5d82c730bfd510f84e51e82e8e0ba.png"
+    ],
+    "icon": "media/370190bcfb37e464eeb37da2e451f58e.png",
+    "cover": "media/c8d3ec8c641fd041ced7af4be5325ca3.png",
+    "author": [
+      {
+        "name": "fanfeifei",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/morse-band-yuanfanfeifei-v1.1.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "更新了流畅性，解决设置不保存设置的问题"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
